@@ -1,0 +1,4 @@
+Pillow>=9.5.0
+open-interpreter>=0.1.5
+python-dotenv>=1.0.0
+colorama>=0.4.6
